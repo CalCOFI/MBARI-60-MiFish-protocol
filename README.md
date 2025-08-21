@@ -6,7 +6,7 @@ This repository contains the protocol for performing PCR amplification of the 12
 
 | File Name              | Description            | Concept DOI                          | Latest Version DOI                      |
 |------------------------|-----------------------|---------------------------------------|------------------------------------------|
-| `CalCOFI_MiFish_PCR_MBARI60_04192025.md`        | First version of file | [10.5281/zenodo.15733905](https://zenodo.org/records/15733905) | [10.5281/zenodo.15733905](https://zenodo.org/records/15733905) |
+| `CalCOFI_MiFish_PCR_MBARI60_04192025.md`        | v1.0.1 | [10.5281/zenodo.16923307](https://zenodo.org/records/16923308) | [10.5281/zenodo.16923308](https://zenodo.org/records/16923308) |
 
 ## How to Cite
 

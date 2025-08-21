@@ -51,7 +51,7 @@ commercial_mm: 2X Platinum SuperFi II MM
 custom_mm: PCR reactions were run in 25 µL reaction volumes, with 2.0 µL of DNA, 12.5 µL of 2X Platinum SuperFi II MM, 7.5 µL of water, and 1.5 µL of each primer (10 µM).
 pcr_dna_vol: 2.0
 pcr_rep: 1.0
-pcr_cond: initial denaturation: 98_0.5; denaturation:98_0.1667; annealing:60_0.1667;elongation:72_.5;final elongation:72_5;38
+pcr_cond: initial denaturation:98_0.5;denaturation:98_0.1667; annealing:60_0.1667;elongation:72_.5;final elongation:72_5;38
 annealingTemp: 60
 pcr_cycles: 38
 ---
@@ -90,7 +90,7 @@ pcr_cycles: 38
 
 # BACKGROUND
 
-This protocol describes steps for performing PCR for the 12S MiFish marker gene regions using eDNA extracted from sea water. 
+This protocol describes steps for performing PCR for the 12S MiFish marker gene regions using eDNA extracted from sea water. It was developed by the Biological Oceanography Group at the Monterey Bay Aquarium Research Institute (MBARI).
 
 
 
